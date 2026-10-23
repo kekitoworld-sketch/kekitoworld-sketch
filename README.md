@@ -13,6 +13,7 @@ Ahora me formo en Python, Testing y BI con **Specialisterne** para dominar por d
 | [**TITAN BREAKERS**](https://github.com/kekitoworld-sketch/titan-breakers-juego) | Videojuego cooperativo online de naves para navegador y móvil (alfa) | [▶ Jugar](https://titan-breakers-production.up.railway.app/) |
 | [**PRETAXI**](https://github.com/kekitoworld-sketch/pretaxi-web) | Reserva de taxi en Barcelona con precio cerrado, en 10 idiomas | [🌐 Ver la web](https://pretaxi-production.up.railway.app) |
 | [**The Real Support**](https://github.com/kekitoworld-sketch/the-real-support) | Entrenador de League of Legends que corre en tu PC | Privado (testers) |
+| **kekito world** | Mi canal de YouTube: vídeos cortos de humor e historias de negocio con música, animación e IA (guion y edición míos) | [📺 Ver el canal](https://www.youtube.com/@kekitooooooo) |
 
 ## 🧰 Con qué trabajo
 
