@@ -16,6 +16,8 @@ Ahora me formo en Python, Testing y BI con **Specialisterne** para dominar por d
 | **kekito world** | Canal de YouTube experimental: vídeos cortos de humor e historias de negocio con música, animación e IA (guion y edición míos) | [📺 Ver el canal](https://www.youtube.com/@kekitooooooo) |
 | **Datos Vitales** | Canal de divulgación sobre salud y nutrición en 3 idiomas: +30.000 visualizaciones, dos vídeos de más de 10.000 (guion y edición míos) | [📺 Ver el canal](https://www.youtube.com/@DatosVitales365) |
 
+*Los canales fueron experimentos para comprobar hasta dónde podía llegar; los cerré al cumplir el objetivo.*
+
 ## 🧰 Con qué trabajo
 
 - **Aprendiendo:** Python · testing de software · Business Intelligence · Excel
@@ -23,7 +25,5 @@ Ahora me formo en Python, Testing y BI con **Specialisterne** para dominar por d
 - **En mis proyectos:** JavaScript · Node · Phaser 3 · PHP (Laravel) · PostgreSQL · Railway
 
 ## 🤝 ¿Colaboramos?
-
-Mis canales fueron experimentos para comprobar hasta dónde podía llegar; los cerré al cumplir el objetivo.
 
 Si te interesa alguno de los proyectos o quieres echar una mano, abre un *issue* en su repositorio y hablamos.
