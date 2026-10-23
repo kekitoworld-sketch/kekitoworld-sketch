@@ -13,8 +13,8 @@ Ahora me formo en Python, Testing y BI con **Specialisterne** para dominar por d
 | [**TITAN BREAKERS**](https://github.com/kekitoworld-sketch/titan-breakers-juego) | Videojuego cooperativo online de naves para navegador y móvil (alfa) | [▶ Jugar](https://titan-breakers-production.up.railway.app/) |
 | [**PRETAXI**](https://github.com/kekitoworld-sketch/pretaxi-web) | Reserva de taxi en Barcelona con precio cerrado, en 10 idiomas | [🌐 Ver la web](https://pretaxi-production.up.railway.app) |
 | [**The Real Support**](https://github.com/kekitoworld-sketch/the-real-support) | Entrenador de League of Legends que corre en tu PC | Privado (testers) |
-| **kekito world** | Mi canal de YouTube: vídeos cortos de humor e historias de negocio con música, animación e IA (guion y edición míos) | [📺 Ver el canal](https://www.youtube.com/@kekitooooooo) |
-| **Datos Vitales** | Mi canal de divulgación sobre salud, bienestar y nutrición: 23 vídeos, +200 suscriptores (guion y edición míos) | [📺 Ver el canal](https://www.youtube.com/@DatosVitales365) |
+| **kekito world** | Canal de YouTube experimental: vídeos cortos de humor e historias de negocio con música, animación e IA (guion y edición míos) | [📺 Ver el canal](https://www.youtube.com/@kekitooooooo) |
+| **Datos Vitales** | Canal de divulgación sobre salud y nutrición en 3 idiomas: +30.000 visualizaciones, dos vídeos de más de 10.000 (guion y edición míos) | [📺 Ver el canal](https://www.youtube.com/@DatosVitales365) |
 
 ## 🧰 Con qué trabajo
 
@@ -23,5 +23,7 @@ Ahora me formo en Python, Testing y BI con **Specialisterne** para dominar por d
 - **En mis proyectos:** JavaScript · Node · Phaser 3 · PHP (Laravel) · PostgreSQL · Railway
 
 ## 🤝 ¿Colaboramos?
+
+Mis canales fueron experimentos para comprobar hasta dónde podía llegar; los cerré al cumplir el objetivo.
 
 Si te interesa alguno de los proyectos o quieres echar una mano, abre un *issue* en su repositorio y hablamos.
