@@ -14,6 +14,7 @@ Ahora me formo en Python, Testing y BI con **Specialisterne** para dominar por d
 | [**PRETAXI**](https://github.com/kekitoworld-sketch/pretaxi-web) | Reserva de taxi en Barcelona con precio cerrado, en 10 idiomas | [🌐 Ver la web](https://pretaxi-production.up.railway.app) |
 | [**The Real Support**](https://github.com/kekitoworld-sketch/the-real-support) | Entrenador de League of Legends que corre en tu PC | Privado (testers) |
 | **kekito world** | Mi canal de YouTube: vídeos cortos de humor e historias de negocio con música, animación e IA (guion y edición míos) | [📺 Ver el canal](https://www.youtube.com/@kekitooooooo) |
+| **Datos Vitales** | Mi canal de divulgación sobre salud, bienestar y nutrición: 23 vídeos, +200 suscriptores (guion y edición míos) | [📺 Ver el canal](https://www.youtube.com/@DatosVitales365) |
 
 ## 🧰 Con qué trabajo
 
